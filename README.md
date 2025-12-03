@@ -1,8 +1,5 @@
 # Thumb
 **Built for**: Production-grade Farcaster Mini Apps on Celo  
-**License**: MIT  
-
----
 
 ## Overview
 
