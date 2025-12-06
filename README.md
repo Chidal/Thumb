@@ -12,6 +12,8 @@ Live contract on Celo Mainnet:
 `0xd9aC52cCaD325f96398A06ADad409B30b3768d24`  
 Explorer: https://celoscan.io/address/0xd9aC52cCaD325f96398A06ADad409B30b3768d24
 
+https://youtu.be/jsdmy_kgnQQ
+
 Launch Thumb in Warpcast → **thumb.fcast.me**
 
 ---
